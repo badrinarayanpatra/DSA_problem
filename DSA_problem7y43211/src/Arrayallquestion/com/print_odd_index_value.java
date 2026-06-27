@@ -1,5 +1,5 @@
 package Arrayallquestion.com;
-//Write a java programm to print odd index value of an array
+//Write a java programm to print even index value of an array
 public class print_odd_index_value {
 
 	public static void main(String[] args) {
